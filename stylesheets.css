@@ -8,6 +8,7 @@
             font-family: Arial;
             font-size: 14px;
             text-align: left;
+            margin: 0px; /** COMMENT: **/
           }
       a {
             color: blue;
@@ -26,6 +27,7 @@
             height: 60px;
             padding: 0px 10px;
             font-size: 14px;
+            width: 100%;
             z-index: 10;
       }
       
@@ -43,6 +45,7 @@
             bottom: 0px;
             height: 60px;
             width: 100px;
+            width: 100%;
             z-index: 10;
       }
       </style>
