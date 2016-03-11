@@ -4,7 +4,7 @@
           }
           body {
             color: black;
-            background-color: blue;
+            <! background-color: blue; />
             background-image: url('soccerball.jpg');
             font-family: Arial
             font-size: 14px;
