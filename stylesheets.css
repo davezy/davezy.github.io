@@ -6,8 +6,7 @@
             <! background-image: url('images/soccerball.jpg'); />
             background-image: url('images/soccerball.jpg');
             font-family: Arial;
-            font-size: 14px;
-            text-align: left;
+            font-size: 11px;      text-align: left;
             margin: 0px; /** COMMENT: **/
           }
       a {
@@ -24,9 +23,9 @@
             background-color: green;
             position: fixed;
             top: 0px;
-            height: 60px;
+            height: 30px;
             padding: 0px 10px;
-            font-size: 14px;
+            font-size: 24px;
             width: 100%;
             z-index: 10;
       }
@@ -43,8 +42,7 @@
             background-color = green;
             position: fixed;
             bottom: 0px;
-            height: 60px;
-            width: 100px;
+            height: 20px;
             width: 100%;
             z-index: 10;
       }
