@@ -1,7 +1,5 @@
       <style>
-          img {
-            width: 200px;
-          }
+
           body {
             color: black;
             <! background-color: blue; />
@@ -11,4 +9,40 @@
             font-size: 14px;
             text-align: left;
           }
+      a {
+            color: blue;
+      }
+      img {
+            width: 200px;
+          }
+      p span {
+            font-weight: bold;
+      }
+      
+      .header {
+            background-color: green;
+            position: fixed;
+            top: 0px;
+            height: 60px;
+            padding: 0px 10px;
+            font-size: 14px;
+            z-index: 10;
+      }
+      
+      .content {
+            height: 200px;
+            position: absolute;
+            top: 60px;
+            padding: 10px;
+            z-index: 0;
+      }
+      
+      .footer {
+            background-color = green;
+            position: fixed;
+            bottom: 0px;
+            height: 60px;
+            width: 100px;
+            z-index: 10;
+      }
       </style>
