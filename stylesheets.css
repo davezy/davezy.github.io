@@ -3,12 +3,12 @@
             width: 200px;
           }
           body {
-            color: brown;
+            color: green;
             <! background-color: blue; />
             <! background-image: url('images/soccerball.jpg'); />
-            background-image: 'images/soccerball.jpg';
+            background-image: url('images/soccerball.jpg');
             font-family: Arial;
             font-size: 14px;
-            text-align: left;
+            text-align: center;
           }
       </style>
